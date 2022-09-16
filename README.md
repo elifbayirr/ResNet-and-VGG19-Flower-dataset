@@ -1,5 +1,5 @@
 # ResNet-and-VGG19-Flower-dataset
- 
+ **The explanation of the code is in the report section.**
  
 This classification algorithm is a supervised learning method and requires a labeled dataset. This component does not support tagged dataset created from Data Labeling in studio, only tagged image index created from Convert to Image Index component.
 
